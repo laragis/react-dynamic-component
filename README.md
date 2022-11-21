@@ -2,13 +2,13 @@
 
 ---
 
-# my-ts-lib
+# React Dynamic Component
 
-[![npm version](https://badgen.net/npm/v/my-ts-lib)](https://npm.im/my-ts-lib) [![npm downloads](https://badgen.net/npm/dm/my-ts-lib)](https://npm.im/my-ts-lib)
+[![npm version](https://badgen.net/npm/v/react-dynamic-component)](https://npm.im/react-dynamic-component) [![npm downloads](https://badgen.net/npm/dm/react-dynamic-component)](https://npm.im/react-dynamic-component)
 
 ## Using this template
 
-- Search `my-ts-lib` and replace it with your custom package name.
+- Search `react-dynamic-component` and replace it with your custom package name.
 - Search `egoist` and replace it with your name.
 
 Features:
@@ -23,7 +23,7 @@ To skip CI (GitHub action), add `skip-ci` to commit message. To skip release, ad
 ## Install
 
 ```bash
-npm i my-ts-lib
+npm i react-dynamic-component
 ```
 
 ## Sponsors
